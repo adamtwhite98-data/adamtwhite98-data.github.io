@@ -3,3 +3,4 @@ logo: /IMG_0864.jpeg
 description: Located in Washington, D.C.
 show_downloads: FALSE
 theme: jekyll-theme-minimal
+markdown: GFM
