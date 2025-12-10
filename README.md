@@ -3,9 +3,9 @@
 #### Technical Skills: R, SQL, Python, Tableau, Tableau Prep, ETL
 
 ## Education and Certifications
-BS in Computational Modeling and Data Analytics | Virginia Polytechnic Institute and State University (_Dec 2023_)
-Statistics Minor | Virginia Tech, College of Engineering (_Dec 2023_)
-Mathematics Minor | Virginia Tech, College of Engineering (_Dec 2023_)
+- BS in Computational Modeling and Data Analytics | Virginia Polytechnic Institute and State University (_Dec 2023_)
+- Statistics Minor | Virginia Tech, College of Engineering (_Dec 2023_)
+- Mathematics Minor | Virginia Tech, College of Engineering (_Dec 2023_)
 
 ## Work Experience
 - Kearney & Company, P.C.
