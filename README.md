@@ -1,11 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: R, SQL, Python, Tableau, Tableau Prep, ETL
 
 ## Education and Certifications
-- BS in Computational Modeling and Data Analytics, Virginia Tech
-- Minor in Statistics, College of Engineering
-- Minor in Mathematics, College of Engineering
+- BS in Computational Modeling and Data Analytics | Virginia Polytechnic Institute and State University (_Dec 2023_)
+- Minor in Statistics | Virginia Tech, College of Engineering (_Dec 2023_)
+- Minor in Mathematics | Virginia Tech, College of Engineering (_Dec 2023_)
 
 ## Work Experience
 - Kearney & Company, P.C.
