@@ -28,7 +28,7 @@ Contracted for Department of Labor’s (DOL) Employment & Training Administratio
 ### NBA ML Dashboard
 [2023 NBA Machine Learning Application](https://adamtwhite98-data.github.io/NBA-2023-Machine-Learning/)
 
- <div align="center" style="margin-bottom: -3px;"> <img src="/nba_analytics_image.png" width="300" height="300"> </div>
+ <div align="center" style="margin-bottom: -3px;"> <img src="/nba_analytics_image.png" width="300" height="200"> </div>
 
 ### NFL Wide Receiver Archetype K-Means Clustering writeup:
 Clustering Map:
