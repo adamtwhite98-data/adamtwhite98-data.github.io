@@ -5,7 +5,7 @@
 ## Education and Certifications
 | Education Type | Location Received |
 | -------------- | ----------------- |
-| BS in Computational Modeling and Data Analytics | Virginia Polytechnic Institute and State University (_Dec 2023_) |
+| <p align="center"> BS in Computational Modeling and Data Analytics </p>| Virginia Polytechnic Institute and State University (_Dec 2023_) |
 | Statistics Minor | Virginia Tech, College of Engineering (_Dec 2023_) |
 | Mathematics Minor | Virginia Tech, College of Engineering (_Dec 2023_) | 
 | SQL Associate | DataCamp (_Nov 2025_) |
