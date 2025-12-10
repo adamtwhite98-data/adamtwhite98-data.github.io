@@ -1,18 +1,23 @@
 # Data Scientist
 
-- Gihub:
-- Linkedin: 
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-### Projects
-- 2025 NFL Skill Position Dashboard: https://adamtwhite98-data.github.io/nfl-2025-dashboard/
-- 2023 NBA Machine Learning Application: https://adamtwhite98-data.github.io/NBA-2023-Machine-Learning/
-- NFL Wide Receiver Archetype Clustering writeup:
-    - Clustering Map:
-
-### Education and Certifications
+## Education and Certifications
 - BS in Computational Modeling and Data Analytics, Virginia Tech
 - Minor in Statistics, College of Engineering
 - Minor in Mathematics, College of Engineering
 
-### Work Experience
+## Work Experience
+- Kearney & Company, P.C.
+
+## Projects
+### NFL Dashboard
+[2025 NFL Skill Position Dashboard](https://adamtwhite98-data.github.io/nfl-2025-dashboard/)
+
+### NBA ML Dashboard
+[2023 NBA Machine Learning Application](https://adamtwhite98-data.github.io/NBA-2023-Machine-Learning/)
+
+### NFL Wide Receiver Archetype K-Means Clustering writeup:
+Clustering Map:
+
 
