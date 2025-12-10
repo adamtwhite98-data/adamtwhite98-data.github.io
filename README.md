@@ -3,13 +3,14 @@
 #### Technical Skills: R, SQL, Python, Tableau, Tableau Prep, ETL
 
 ## Education and Certifications
-| <div align="center" style="margin-bottom: -10px;"> Education Type </div> | <div align="center" style="margin-bottom: -10px;"> Location Received </div> |
+| <div align="center" style="margin-bottom: -5px;"> Education Type </div> | <div align="center" style="margin-bottom: -5px;"> Location Received </div> |
 | -------------- | ----------------- |
-| <p align="center"> BS, Computational Modeling and Data Analytics (CMDA) </p>| <p align="center"> Virginia Polytechnic Institute and State University (_Dec 2023_) </p> |
-| <p align="center"> Statistics Minor </p> | <p align="center"> Virginia Tech, College of Engineering (_Dec 2023_) </p> |
-| <p align="center"> Mathematics Minor </p> | <p align="center"> Virginia Tech, College of Engineering (_Dec 2023_) </p> | 
-| <p align="center"> SQL Associate </p> | <p align="center"> DataCamp (_Nov 2025_) </p> |
-| <p align="center"> Data Analyst Associate </p> |<p align="center"> DataCamp (_Nov 2025_) </p> | 
+| <div align="center" style="margin-bottom: -5px;"> BS, Computational Modeling and Data Analytics (CMDA) </div>| <div align="center" style="margin-bottom: -5px;">Virginia Polytechnic Institute and State University (_Dec 2023_) </div> |
+| <div align="center" style="margin-bottom: -5px;"> Statistics Minor </div> | <div align="center" style="margin-bottom: -5px;"> Virginia Tech, College of Engineering (_Dec 2023_) </div> |
+| <div align="center" style="margin-bottom: -5px;"> Mathematics Minor </div> | <div align="center" style="margin-bottom: -5px;"> Virginia Tech, College of Engineering (_Dec 2023_) </div> | 
+| <div align="center" style="margin-bottom: -5px;"> SQL Associate </div> | <div align="center" style="margin-bottom: -5px;"> DataCamp (_Nov 2025_) </div> |
+| <div align="center" style="margin-bottom: -5px;"> Data Analyst Associate </div> |<div align="center" style="margin-bottom: -5px;"> DataCamp (_Nov 2025_) </div> | 
+| <div align="center" style="margin-bottom: -5px;"> UiPath Certified Professional Automation Developer Associate | UiPath (_March 2024_) 
 
 ## Work Experience
 **Data Analyst**, Kearney & Company (February 2024 – Present)  
