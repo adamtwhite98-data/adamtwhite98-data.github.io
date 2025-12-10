@@ -5,11 +5,11 @@
 ## Education and Certifications
 | Education Type | Location Received |
 | -------------- | ----------------- |
-| <p align="center"> BS in Computational Modeling and Data Analytics </p>| Virginia Polytechnic Institute and State University (_Dec 2023_) |
-| Statistics Minor | Virginia Tech, College of Engineering (_Dec 2023_) |
-| Mathematics Minor | Virginia Tech, College of Engineering (_Dec 2023_) | 
-| SQL Associate | DataCamp (_Nov 2025_) |
-| Data Analyst Associate | DataCamp (_Nov 2025_) | 
+| <p align="center"> BS, Computational Modeling and Data Analytics (CMDA) </p>| <p align="center"> Virginia Polytechnic Institute and State University (_Dec 2023_) </p> |
+| <p align="center"> Statistics Minor </p> | <p align="center"> Virginia Tech, College of Engineering (_Dec 2023_) </p> |
+| <p align="center"> Mathematics Minor </p> | <p align="center"> Virginia Tech, College of Engineering (_Dec 2023_) </p> | 
+| <p align="center"> SQL Associate </p> | <p align="center"> DataCamp (_Nov 2025_) </p> |
+| <p align="center"> Data Analyst Associate </p> |<p align="center"> DataCamp (_Nov 2025_) </p> | 
 
 ## Work Experience
 - Kearney & Company, P.C.
