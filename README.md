@@ -10,7 +10,7 @@
 | <div align="center" style="margin-bottom: -5px;"> Mathematics Minor </div> | <div align="center" style="margin-bottom: -5px;"> Virginia Tech, College of Engineering (_Dec 2023_) </div> | 
 | <div align="center" style="margin-bottom: -5px;"> SQL Associate </div> | <div align="center" style="margin-bottom: -5px;"> DataCamp (_Nov 2025_) </div> |
 | <div align="center" style="margin-bottom: -5px;"> Data Analyst Associate </div> |<div align="center" style="margin-bottom: -5px;"> DataCamp (_Nov 2025_) </div> | 
-| <div align="center" style="margin-bottom: -5px;"> UiPath Certified Professional Automation Developer Associate | UiPath (_March 2024_) 
+| <div align="center" style="margin-bottom: -5px;"> UiPath Certified Professional Automation Developer Associate | <div align="center" style="margin-bottom: -5px;"> UiPath (_March 2024_) </div> |
 
 ## Work Experience
 **Data Analyst**, Kearney & Company (February 2024 – Present)  
