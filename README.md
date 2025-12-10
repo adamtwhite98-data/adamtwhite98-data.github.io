@@ -3,7 +3,7 @@
 #### Technical Skills: R, SQL, Python, Tableau, Tableau Prep, ETL
 
 ## Education and Certifications
-| <p align="center"> Education Type </p> | <p align="center"> Location Received </p> |
+| <div align="center" style="margin-bottom: -10px;"> Education Type </div> | <div align="center" style="margin-bottom: -10px;"> Location Received </div> |
 | -------------- | ----------------- |
 | <p align="center"> BS, Computational Modeling and Data Analytics (CMDA) </p>| <p align="center"> Virginia Polytechnic Institute and State University (_Dec 2023_) </p> |
 | <p align="center"> Statistics Minor </p> | <p align="center"> Virginia Tech, College of Engineering (_Dec 2023_) </p> |
