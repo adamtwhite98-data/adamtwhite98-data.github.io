@@ -5,12 +5,12 @@
 ## Education and Certifications
 | <div align="center" style="margin-bottom: -5px;"> Education Type </div> | <div align="center" style="margin-bottom: -5px;"> Location Received </div> |
 | -------------- | ----------------- |
-| <div align="center" style="margin-bottom: -5px;"> BS, Computational Modeling and Data Analytics (CMDA) </div>| <div align="center" style="margin-bottom: -5px;">Virginia Polytechnic Institute and State University (_Dec 2023_) </div> |
-| <div align="center" style="margin-bottom: -5px;"> Statistics Minor </div> | <div align="center" style="margin-bottom: -5px;"> Virginia Tech, College of Engineering (_Dec 2023_) </div> |
-| <div align="center" style="margin-bottom: -5px;"> Mathematics Minor </div> | <div align="center" style="margin-bottom: -5px;"> Virginia Tech, College of Engineering (_Dec 2023_) </div> | 
-| <div align="center" style="margin-bottom: -5px;"> SQL Associate </div> | <div align="center" style="margin-bottom: -5px;"> DataCamp (_Nov 2025_) </div> |
-| <div align="center" style="margin-bottom: -5px;"> Data Analyst Associate </div> |<div align="center" style="margin-bottom: -5px;"> DataCamp (_Nov 2025_) </div> | 
-| <div align="center" style="margin-bottom: -5px;"> UiPath Certified Professional Automation Developer Associate | <div align="center" style="margin-bottom: -5px;"> UiPath (_March 2024_) </div> |
+| <div align="center" style="margin-bottom: -3px;"> BS, Computational Modeling and Data Analytics (CMDA) </div>| <div align="center" style="margin-bottom: -3px;">Virginia Polytechnic Institute and State University (_Dec 2023_) </div> |
+| <div align="center" style="margin-bottom: -3px;"> Statistics Minor </div> | <div align="center" style="margin-bottom: -3px;"> Virginia Tech, College of Engineering (_Dec 2023_) </div> |
+| <div align="center" style="margin-bottom: -3px;"> Mathematics Minor </div> | <div align="center" style="margin-bottom: -3px;"> Virginia Tech, College of Engineering (_Dec 2023_) </div> | 
+| <div align="center" style="margin-bottom: -3px;"> SQL Associate </div> | <div align="center" style="margin-bottom: -3px;"> DataCamp (_Nov 2025_) </div> |
+| <div align="center" style="margin-bottom: -3px;"> Data Analyst Associate </div> |<div align="center" style="margin-bottom: -3px;"> DataCamp (_Nov 2025_) </div> | 
+| <div align="center" style="margin-bottom: -3px;"> UiPath Certified Professional Automation Developer Associate | <div align="center" style="margin-bottom: -3px;"> UiPath (_March 2024_) </div> |
 
 ## Work Experience
 **Data Analyst**, Kearney & Company (February 2024 – Present)  
