@@ -22,13 +22,13 @@ Contracted for Department of Labor’s (DOL) Employment & Training Administratio
 ### NFL Dashboard
 [2025 NFL Skill Position Dashboard](https://adamtwhite98-data.github.io/nfl-2025-dashboard/)
 
-<div align="center" style="margin-bottom: -3px;"> <img src="/nfl_analytics_photo.jpeg" width="500" height="500"> </div>
+<div align="center" style="margin-bottom: -3px;"> <img src="/nfl_analytics_photo.jpeg" width="300" height="300"> </div>
 
 
 ### NBA ML Dashboard
 [2023 NBA Machine Learning Application](https://adamtwhite98-data.github.io/NBA-2023-Machine-Learning/)
 
- <div align="center" style="margin-bottom: -3px;"> <img src="/nba_analytics_image.png" width="500" height="500"> </div>
+ <div align="center" style="margin-bottom: -3px;"> <img src="/nba_analytics_image.png" width="300" height="300"> </div>
 
 ### NFL Wide Receiver Archetype K-Means Clustering writeup:
 Clustering Map:
