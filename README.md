@@ -37,6 +37,8 @@ This interactive R Shiny dashboard explores 2023 NBA data through a machine lear
  <div align="center" style="margin-bottom: 5px;"> <img src="/nba_analytics_image.png" width="300" height="200"> </div>
 
 ### NFL Wide Receiver Archetype K-Means Clustering writeup:
+[Receiver Archetype Write Up](https://github.com/adamtwhite98-data/nfl-reciever-archetype)
+This project clusters NFL wide receivers by per-play usage and efficiency rather than raw volume, using play-by-play–derived metrics to identify players performing at an elite level despite limited opportunities. Applying PCA, Euclidean distance, and k-means clustering to nflfastR data reveals four distinct receiver archetypes—ranging from all-around WR1s to deep threats and YAC specialists—providing a data-driven framework for player evaluation and comparison beyond traditional box score statistics.
 Clustering Map:
 
 
