@@ -1,7 +1,7 @@
 # Data Scientist
 
-#### Relevant Skills: Data Visualization, Advanced Analytics, Predictive Modeling, Data 
-#### Relevant Software: R, SQL, Python, Tableau, Tableau Prep,
+#### Relevant Skills: Data Visualization, Advanced Analytics, Predictive Modeling, Robotic Process Automation, Dashboard Development
+#### Relevant Software: R, SQL, Python, Tableau, Tableau Prep, UiPath
 
 ## Education and Certifications
 | <div align="center" style="margin-bottom: -5px;"> Education Type </div> | <div align="center" style="margin-bottom: -5px;"> Location Received </div> |
@@ -26,14 +26,14 @@ Contracted for Department of Labor’s (DOL) Employment & Training Administratio
 [2025 NFL Skill Position Dashboard](https://adamtwhite98-data.github.io/nfl-2025-dashboard/)
 This dashboard presents advanced performance metrics and predictive insights for running backs, wide receivers, quarterbacks, and teams, integrating play-by-play–derived analytics with forward-looking models. It is designed to support data-driven evaluation, comparison, and decision-making across player and team contexts throughout the season.
 
-<div align="center" style="margin-bottom: -3px;"> <img src="/nfl_analytics_photo.jpeg" width="300" height="300"> </div>
+<div align="center" style="margin-bottom: 0px;"> <img src="/nfl_analytics_photo.jpeg" width="300" height="300"> </div>
 
 
 ### NBA ML Dashboard
 [2023 NBA Machine Learning Application](https://adamtwhite98-data.github.io/NBA-2023-Machine-Learning/)
 This interactive R Shiny dashboard explores 2023 NBA data through a machine learning lens, applying and comparing multiple modeling approaches to player and team outcomes. Methods include logistic regression, multiple linear regression, ridge regression, natural cubic splines, k-nearest neighbors, and naïve Bayes, enabling model-driven analysis, performance comparison, and interpretability across basketball contexts.
 
- <div align="center" style="margin-bottom: -3px;"> <img src="/nba_analytics_image.png" width="300" height="200"> </div>
+ <div align="center" style="margin-bottom: 0px;"> <img src="/nba_analytics_image.png" width="300" height="200"> </div>
 
 ### NFL Wide Receiver Archetype K-Means Clustering writeup:
 Clustering Map:
