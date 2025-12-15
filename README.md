@@ -1,6 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: R, SQL, Python, Tableau, Tableau Prep, ETL
+#### Relevant Skills: ETL, 
+#### Relevant Software: R, SQL, Python, Tableau, Tableau Prep,
 
 ## Education and Certifications
 | <div align="center" style="margin-bottom: -5px;"> Education Type </div> | <div align="center" style="margin-bottom: -5px;"> Location Received </div> |
