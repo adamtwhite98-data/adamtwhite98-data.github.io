@@ -1,14 +1,14 @@
 # Data Scientist
 
-#### Relevant Skills: ETL, 
+#### Relevant Skills: Data Visualization, Advanced Analytics, Predictive Modeling, Data 
 #### Relevant Software: R, SQL, Python, Tableau, Tableau Prep,
 
 ## Education and Certifications
 | <div align="center" style="margin-bottom: -5px;"> Education Type </div> | <div align="center" style="margin-bottom: -5px;"> Location Received </div> |
 | -------------- | ----------------- |
 | <div align="center" style="margin-bottom: -3px;"> BS, Computational Modeling and Data Analytics (CMDA) </div>| <div align="center" style="margin-bottom: -3px;">Virginia Polytechnic Institute and State University (_Dec 2023_) </div> |
-| <div align="center" style="margin-bottom: -3px;"> Statistics Minor </div> | <div align="center" style="margin-bottom: -3px;"> Virginia Tech, College of Engineering (_Dec 2023_) </div> |
-| <div align="center" style="margin-bottom: -3px;"> Mathematics Minor </div> | <div align="center" style="margin-bottom: -3px;"> Virginia Tech, College of Engineering (_Dec 2023_) </div> | 
+| <div align="center" style="margin-bottom: -3px;"> Statistics Minor </div> | <div align="center" style="margin-bottom: -3px;"> Virginia Tech, College of Science (_Dec 2023_) </div> |
+| <div align="center" style="margin-bottom: -3px;"> Mathematics Minor </div> | <div align="center" style="margin-bottom: -3px;"> Virginia Tech, College of Science (_Dec 2023_) </div> | 
 | <div align="center" style="margin-bottom: -3px;"> SQL Associate </div> | <div align="center" style="margin-bottom: -3px;"> DataCamp (_Nov 2025_) </div> |
 | <div align="center" style="margin-bottom: -3px;"> Data Analyst Associate </div> |<div align="center" style="margin-bottom: -3px;"> DataCamp (_Nov 2025_) </div> | 
 | <div align="center" style="margin-bottom: -3px;"> UiPath Certified Professional Automation Developer Associate | <div align="center" style="margin-bottom: -3px;"> UiPath (_March 2024_) </div> |
